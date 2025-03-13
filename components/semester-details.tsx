@@ -209,7 +209,7 @@ export function SemesterDetails() {
     <Card>
       <CardHeader>
         <CardTitle>Detalhes por Semestre</CardTitle>
-        <CardDescription>Explore seu progresso semestre a semestre</CardDescription>
+        <CardDescription>Progresso semestre a semestre</CardDescription>
       </CardHeader>
       <CardContent>
         <Tabs defaultValue="1" value={activeTab} onValueChange={setActiveTab}>

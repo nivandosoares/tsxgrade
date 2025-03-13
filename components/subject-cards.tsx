@@ -100,7 +100,7 @@ export function SubjectCards() {
     <Card>
       <CardHeader>
         <CardTitle>Áreas de Habilidade</CardTitle>
-        <CardDescription>Acompanhe seu progresso em diferentes áreas de conhecimento</CardDescription>
+        <CardDescription>Progresso em diferentes áreas de conhecimento</CardDescription>
       </CardHeader>
       <CardContent>
         <div className="flex flex-wrap gap-2 mb-6">

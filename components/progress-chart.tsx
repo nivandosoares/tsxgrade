@@ -29,7 +29,7 @@ export function ProgressChart() {
       <CardHeader className="flex flex-row items-center justify-between pb-2">
         <div>
           <CardTitle>Progresso da Média</CardTitle>
-          <CardDescription>Acompanhe seu desempenho acadêmico ao longo do tempo</CardDescription>
+          <CardDescription>Desempenho acadêmico ao longo do tempo</CardDescription>
         </div>
         <Select value={timeRange} onValueChange={setTimeRange}>
           <SelectTrigger className="w-[180px]">
