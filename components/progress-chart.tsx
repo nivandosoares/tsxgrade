@@ -90,11 +90,11 @@ export function ProgressChart() {
           </div>
           <div className="text-center">
             <div className="text-sm font-medium text-muted-foreground">Média Geral</div>
-            <div className="text-2xl font-bold text-green-600">9.04</div>
+            <div className="text-2xl font-bold text-green-600">9.66</div>
           </div>
           <div className="text-center">
             <div className="text-sm font-medium text-muted-foreground">Progresso Geral</div>
-            <div className="text-2xl font-bold text-green-600">92.86%</div>
+            <div className="text-2xl font-bold text-green-600">100%</div>
           </div>
         </div>
       </CardContent>
