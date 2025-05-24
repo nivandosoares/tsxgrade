@@ -17,13 +17,13 @@ const subjects = [
     color: "bg-blue-500",
     textColor: "text-blue-500",
     borderColor: "border-blue-500",
-    progress: 95,
+    progress: 100,
     trend: "+8%",
     courses: [
       { course: "Algoritmos e Programação Estruturada", grade: "10.0", term: "2º Semestre" },
       { course: "Linguagem de Programação", grade: "10.0", term: "2º Semestre" },
       { course: "Linguagem Orientada a Objetos", grade: "10.0", term: "3º Semestre" },
-      { course: "Desenvolvimento em JavaScript", grade: "Cursando", term: "5º Semestre" },
+      { course: "Desenvolvimento em JavaScript", grade: "9.92", term: "5º Semestre" },
     ],
   },
   {
