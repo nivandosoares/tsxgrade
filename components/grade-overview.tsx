@@ -195,22 +195,21 @@ const grades = [
     status: "Concluída",
   },
 
-  // Quinto Semestre
   {
     id: "23",
     course: "Desenvolvimento em JavaScript",
     term: "5º Semestre",
-    grade: "Cursando",
-    percentage: 0,
-    status: "Em Andamento",
+    grade: "9.92",
+    percentage: 99.2,
+    status: "Concluída",
   },
   {
     id: "24",
     course: "Desenvolvimento Mobile",
     term: "5º Semestre",
-    grade: "Cursando",
-    percentage: 0,
-    status: "Em Andamento",
+    grade: "8.37",
+    percentage: 83.7,
+    status: "Concluída",
   },
   {
     id: "25",
@@ -224,9 +223,9 @@ const grades = [
     id: "26",
     course: "Frameworks para Desenvolvimento de Software",
     term: "5º Semestre",
-    grade: "6.00",
-    percentage: 60,
-    status: "Em Andamento",
+    grade: "10.0",
+    percentage: 100,
+    status: "Concluída",
   },
   {
     id: "27",
@@ -240,9 +239,9 @@ const grades = [
     id: "28",
     course: "Sistemas Distribuídos",
     term: "5º Semestre",
-    grade: "7.00",
-    percentage: 70,
-    status: "Em Andamento",
+    grade: "10.0",
+    percentage: 100,
+    status: "Concluída",
   },
 ]
 

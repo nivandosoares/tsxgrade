@@ -6,18 +6,17 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/com
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select"
 import { ChartContainer, ChartTooltip, ChartTooltipContent } from "@/components/ui/chart"
 
-// Dados reais do aluno
 const gradeData = {
   all: [
     { term: "1º Semestre", gpa: 9.71 },
     { term: "2º Semestre", gpa: 9.66 },
     { term: "3º Semestre", gpa: 9.52 },
     { term: "4º Semestre", gpa: 9.8 },
-    { term: "5º Semestre", gpa: 6.72 },
+    { term: "5º Semestre", gpa: 9.61 },
   ],
   recent: [
     { term: "4º Semestre", gpa: 9.8 },
-    { term: "5º Semestre", gpa: 6.72 },
+    { term: "5º Semestre", gpa: 9.61 },
   ],
 }
 

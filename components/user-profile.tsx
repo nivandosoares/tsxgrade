@@ -8,11 +8,11 @@ import { ThemeToggle } from "@/components/theme-toggle"
 
 export function UserProfile() {
   const [studentInfo, setStudentInfo] = useState({
-    name: "Nivando Soares",
-    grade: "5º Semestre",
-    school: "Análise e Desenvolvimento de Sistemas",
-    startYear: "2022",
-    expectedGraduation: "2025",
+      name: "Nivando Soares",
+      grade: "Formado",
+      school: "Análise e Desenvolvimento de Sistemas",
+      startYear: "2022",
+      graduationYear: "2025",  
   })
 
   return (
