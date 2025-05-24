@@ -161,14 +161,14 @@ const semesters = [
     id: "5",
     name: "5º Semestre",
     description: "Especialização",
-    average: "6.72",
+    average: "9.61",
     courses: [
-      { name: "Desenvolvimento em JavaScript", grade: "Cursando" },
-      { name: "Desenvolvimento Mobile", grade: "Cursando" },
+      { name: "Desenvolvimento em JavaScript", grade: "9.92" },
+      { name: "Desenvolvimento Mobile", grade: "8.37" },
       { name: "Desenvolvimento Responsivo", grade: "9.34" },
-      { name: "Frameworks para Desenvolvimento de Software", grade: "Cursando" },
+      { name: "Frameworks para Desenvolvimento de Software", grade: "10.0" },
       { name: "Projeto de Extensão II", grade: "10.0" },
-      { name: "Sistemas Distribuídos", grade: "Cursando" },
+      { name: "Sistemas Distribuídos", grade: "10.0" },
     ],
     projects: [
       {
