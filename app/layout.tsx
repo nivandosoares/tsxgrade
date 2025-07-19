@@ -3,8 +3,8 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'Meu progresso em Análise e desenvolvimento de sistemas',
-  description: 'Created with v0',
-  generator: 'v0.dev',
+  description: '------------',
+  generator: '------',
 }
 
 export default function RootLayout({
