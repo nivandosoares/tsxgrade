@@ -47,15 +47,15 @@ export function UserProfile() {
               </div>
               <div className="flex items-center text-sm text-muted-foreground">
                 <Calendar className="mr-1 h-4 w-4" />
-                <span>Formatura em {studentInfo.expectedGraduation}</span>
+                <span>Formatura em {studentInfo.graduationYear}</span>
               </div>
               <div className="flex items-center text-sm text-muted-foreground">
                 <BookOpen className="mr-1 h-4 w-4" />
-                <span>26 Disciplinas Concluídas</span>
+                <span>28 Disciplinas Concluídas</span>
               </div>
               <div className="flex items-center text-sm text-muted-foreground">
                 <User className="mr-1 h-4 w-4" />
-                <span>Progresso: 92.86%</span>
+                <span>Progresso: 100%</span>
               </div>
             </div>
           </div>
